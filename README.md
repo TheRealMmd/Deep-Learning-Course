@@ -1,4 +1,4 @@
-# Deep Learning — Advanced Course Notebooks (Sets 1–5)
+# Deep Learning — Advanced Course Notebooks 
 
 ## About
 This repository contains my notebooks for an **advanced** Deep Learning course, organized into **five themed sets**. The sets progress from foundations and classic vision tasks to sequence modeling/LLMs, generative modeling, and self-supervised/text–image methods.  
@@ -6,7 +6,7 @@ Each set has its **own README** inside the set folder (`Set1.md`, `Set2.md`, …
 
 ---
 
-## Repository Structure (with brief summaries)
+## Repository Structure 
 
 - **Set 1 — Foundations**  
   Basics of tensors & autograd, a NumPy neural network **from scratch** (manual forward/backward + gradient checking), and an **optimization playground** comparing first/second-order methods on standard test functions.  
